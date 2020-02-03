@@ -1,6 +1,6 @@
 # 100DayOfCode
 
-This repo is for my 100DayOfCoding in Python Challenge and my aim here is to learn Javascript. The problems are selected from a collection of coding challenges from Udemy's Python Hand-on Solve 200 Problems.
+This repo is for my 100DayOfCoding Challenge and my aim here is to learn Python. The problems are selected from a collection of coding challenges from Udemy's Python Hand-on Solve 200 Problems.
 
 Week 1 :
 
