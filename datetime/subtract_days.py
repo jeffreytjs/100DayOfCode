@@ -1,8 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
+# Day 28 - Problem 34
 
-# In[ ]:
+# Challenge
+# Write a Python program to subtract five days from current date
+
+from datetime import datetime, timedelta
 
 
-#  Write a Python program to subtract five days from current date
-
+days_to_subtract = 5
+d = datetime.today() - timedelta(days=days_to_subtract)
