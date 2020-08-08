@@ -1,17 +1,14 @@
-#!/usr/bin/env python
-# coding: utf-8
 # Day 14 - Problem 17
-# In[ ]:
 
-
+# Challenge
 # Write a Python program to get the Fibonacci series between 0 to 50
-first = 0
-last = 50
-def find_fibo(first,last):
+
+
+def find_fibo(first, last):
     results = []
     i = first
     while i <= last:
-        if len(results)<=1:
+        if len(results) <= 1:
             results.append(i)
             i += 1
         else:
@@ -23,4 +20,7 @@ def find_fibo(first,last):
                 print(results)
                 return results
 
-find_fibo(first,last)
+
+first = 0
+last = 50
+find_fibo(first, last)
