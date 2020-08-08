@@ -38,7 +38,7 @@ def check_password():
         has_special = re.findall(r'[$#@]', pw)
         # Length will be 0 if no matching character is found
         if (len(has_lowercase) == 0) or (len(has_uppercase) == 0) or (len(has_number) == 0) or (len(has_special) == 0):
-            return "Password should contain at least 1 number [0-9], 1 lowercase alphabet [a-z], 1 uppercase alphabet [A-Z] and one special character [$@#]"
+            return "Password should contain at least 1 number [0-9], 1 lowercase alphabet [a-z], 1 uppercase alphabet [A-Z] and one special character [$@#]" # noqa
         else:
             return "Valid password"
 
