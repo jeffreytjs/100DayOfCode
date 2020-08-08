@@ -1,13 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
 # Day 9 - Problem 12
-# In[ ]:
 
-
-# ---------------------------------------------------------------
-# python best courses https://courses.tanpham.org/
-# ---------------------------------------------------------------
+# Challenge
 # Write a Python program to check a triangle is valid or not
+
 
 def check_triangle(a, b, c):
     """
@@ -28,5 +23,6 @@ def check_triangle(a, b, c):
         print("0")
         return False
 
-check_triangle(1, 10, 12) # Output = False
+
+check_triangle(1, 10, 12)  # Output = False
 check_triangle(7, 10, 5)  # Output = True

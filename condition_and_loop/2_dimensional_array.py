@@ -1,26 +1,22 @@
-#!/usr/bin/env python
-# coding: utf-8
 # Day 8 - Problem 11
-# In[ ]:
 
-
-# ---------------------------------------------------------------
-# python best courses https://courses.tanpham.org/
-# ---------------------------------------------------------------
-# Write a Python program which takes two digits m (row) and n (column) as input and generates a two-dimensional array.
+# Challenge
+# Write a Python program which takes two digits m (row) and n (column) as input
+# and generates a two-dimensional array.
 # The element value in the i-th row and j-th column of the array should be i*j.
 # Note :
 # i = 0,1.., m-1
 # j = 0,1, n-1.
 
+# Examples
 # Input
 # Input number of rows: 3
 # Input number of columns: 4
-
 # Output
 # [[0, 0, 0, 0], [0, 1, 2, 3], [0, 2, 4, 6]]
 
-def make_2d_array(m,n):
+
+def make_2d_array(m, n):
     """
     Constructs a 2d-array where the element value in the i-th row and
     j-th column of the array is i*j.
@@ -33,8 +29,11 @@ def make_2d_array(m,n):
     for i in range(m):
         inner = []
         for j in range(n):
-            inner.append(i*j)
+            inner.append(i * j)
         result.append(inner)
-    print(result)
+    return(result)
 
-make_2d_array(3,4)
+
+row = 3
+col = 4
+make_2d_array(row, col)
