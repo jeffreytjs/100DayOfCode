@@ -1,8 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
+# Day 27 - Problem 31
 
-# In[ ]:
+# Challenge
+# Write a Python program to get the current time in Python.
 
-
-#  Write a Python program to get the current time in Python.
-
+import datetime
+print(datetime.datetime.now())
