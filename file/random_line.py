@@ -1,9 +1,16 @@
-#!/usr/bin/env python
-# coding: utf-8
+# Day 38 - Problem 44
 
-# In[ ]:
-
-
+# Challenge
 # Write a Python program to read a random line from a file.
-# Using test.txt
+# Hint: Use test.txt
 
+import random
+
+
+def read_random(filepath):
+    text = open(filepath).read().splitlines()
+    line = random.choice(text)
+    return(line)
+
+
+print(read_random('test.txt'))
