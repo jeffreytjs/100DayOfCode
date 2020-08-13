@@ -1,4 +1,4 @@
-# Day 38 - Problem 44
+# Day 39 - Problem 45
 
 # Challenge
 # Convert a list of characters into a string
