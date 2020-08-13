@@ -1,8 +1,13 @@
-#!/usr/bin/env python
-# coding: utf-8
+# Day 52 - Problem 58
 
-# In[ ]:
-
-
+# Challenge
 # Write a Python function to round up a number to specified digits.
 
+
+def round_up(n, num_digits):
+    return round(n, num_digits)
+
+
+n = 0.123456789
+num_digits = 4
+print(round_up(n, num_digits))
