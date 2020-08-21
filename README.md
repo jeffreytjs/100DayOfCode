@@ -6,19 +6,19 @@ It covers a wide range of topics which I will be using an overview to track my p
 
 # Overview of Topics
 | Topic | Completion |
-| :--- | :--- |
+| :--- | :---: |
 | [array](https://github.com/jeffreytjs/100DayOfCode/tree/master/array) | 6/6 |
 | [basic](https://github.com/jeffreytjs/100DayOfCode/tree/master/basic) | 3/3 |
 | [class](https://github.com/jeffreytjs/100DayOfCode/tree/master/class) | 8/8 |
 | [condition_and_loop](https://github.com/jeffreytjs/100DayOfCode/tree/master/condition_and_loop) | 12/12 |
 | [datetime](https://github.com/jeffreytjs/100DayOfCode/tree/master/datetime) | 5/5 |
 | [dictionary](https://github.com/jeffreytjs/100DayOfCode/tree/master/dictionary) | 6/6 |
-| [file](https://github.com/jeffreytjs/100DayOfCode/tree/master/file) | 0/4 |
-| [list](https://github.com/jeffreytjs/100DayOfCode/tree/master/list) | 0/10 |
-| [math](https://github.com/jeffreytjs/100DayOfCode/tree/master/math) | 0/5 |
+| [file](https://github.com/jeffreytjs/100DayOfCode/tree/master/file) | 4/4 |
+| [list](https://github.com/jeffreytjs/100DayOfCode/tree/master/list) | 10/10 |
+| [math](https://github.com/jeffreytjs/100DayOfCode/tree/master/math) | 5/5 |
 | [numpy](https://github.com/jeffreytjs/100DayOfCode/tree/master/numpy) | 0/100 |
-| [recursion](https://github.com/jeffreytjs/100DayOfCode/tree/master/recursion) | 0/5 |
-| [regex](https://github.com/jeffreytjs/100DayOfCode/tree/master/regex) | 0/8 |
+| [recursion](https://github.com/jeffreytjs/100DayOfCode/tree/master/recursion) | 5/5 |
+| [regex](https://github.com/jeffreytjs/100DayOfCode/tree/master/regex) | 8/8 |
 | [search](https://github.com/jeffreytjs/100DayOfCode/tree/master/search) | 0/2 |
 | [sort](https://github.com/jeffreytjs/100DayOfCode/tree/master/sort) | 0/6 |
 | [string](https://github.com/jeffreytjs/100DayOfCode/tree/master/string) | 0/10 |
@@ -26,7 +26,7 @@ It covers a wide range of topics which I will be using an overview to track my p
 
 # Detailed daily logs
 | Day | Challenge |
-| --- | --- |
+| :---: | --- |
 | 1 | array/[Find length of the longest substring without repeating characters.](https://github.com/jeffreytjs/100DayOfCode/blob/master/array/array_longest_non_repeat.py):heavy_check_mark:<br />array/[Given a collections of intervals, merge all overlapping intervals.](https://github.com/jeffreytjs/100DayOfCode/blob/master/array/array_merge_intervals.py):heavy_check_mark: |
 | 2 | array/[Given two arrays, find which/all elements missing in the second array.](https://github.com/jeffreytjs/100DayOfCode/blob/master/array/array_missing_element_challenge.py):heavy_check_mark:|
 | 3 | basic/[Take in an integer n and computes the value of n + nn + nnn.](https://github.com/jeffreytjs/100DayOfCode/blob/master/basic/calculate_with_input.py):heavy_check_mark:<br />basic/[Ask user to enter their name and their age.](https://github.com/jeffreytjs/100DayOfCode/blob/master/basic/input_age.py):heavy_check_mark:<br />basic/[Print a string in a specific format.](https://github.com/jeffreytjs/100DayOfCode/blob/master/basic/print_string.py):heavy_check_mark:|
@@ -44,4 +44,86 @@ It covers a wide range of topics which I will be using an overview to track my p
 | 15 | condition_and_loop/[Guessing game by generating a random number between 1 and 9 (inclusive).](https://github.com/jeffreytjs/100DayOfCode/blob/master/condition_and_loop/guess_game.py):heavy_check_mark:|
 | 16 | condition_and_loop/[Check if a triangle is equilateral, isosceles or scalene.](https://github.com/jeffreytjs/100DayOfCode/blob/master/condition_and_loop/triangle_types.py):heavy_check_mark:|
 | 17 | condition_and_loop/[Check whether an alphabet is a vowel or consonant.](https://github.com/jeffreytjs/100DayOfCode/blob/master/condition_and_loop/vowel_or_consonal.py):heavy_check_mark:|
-| 18 | condition_and_loop/[condition_and_loop/password_validation](https://github.com/jeffreytjs/100DayOfCode/blob/master/condition_and_loop/password_validation.py):heavy_check_mark:|
+| 18 | condition_and_loop/[Check the validity of a user input password.](https://github.com/jeffreytjs/100DayOfCode/blob/master/condition_and_loop/password_validation.py):heavy_check_mark:|
+| 19 | class/[Check validity of a string of parentheses, '(', ')', '{', '}', '[' and ']'.](https://github.com/jeffreytjs/100DayOfCode/blob/master/class/check_parentheses.py):heavy_check_mark:|
+| 20 | class/[Compute area and parameter given the radius.](https://github.com/jeffreytjs/100DayOfCode/blob/master/class/circle.py):heavy_check_mark:|
+| 21 | class/[Convert a roman numeral to an integer.](https://github.com/jeffreytjs/100DayOfCode/blob/master/class/convert_to_int.py):heavy_check_mark:|
+| 22 | class/[Convert a roman integer to an numeral.](https://github.com/jeffreytjs/100DayOfCode/blob/master/class/convert_to_roman.py):heavy_check_mark: |
+| 23 | class/[Compute area of a rectangle given the length and width.](https://github.com/jeffreytjs/100DayOfCode/blob/master/class/rectange.py):heavy_check_mark: |
+| 24 | class/[Using a Class, get user input and print it.](https://github.com/jeffreytjs/100DayOfCode/blob/master/class/get_and_print.py):heavy_check_mark: |
+| 25 | class/[Reverse a string word by word.](https://github.com/jeffreytjs/100DayOfCode/blob/master/class/revert_word.py):heavy_check_mark: |
+| 26 | class/[Find all sets of three elements that sum up to zero from an array of n real numbers.](https://github.com/jeffreytjs/100DayOfCode/blob/master/class/sum_zero.py):heavy_check_mark: |
+| 27 | datetime/[Convert Year/Month/Day to Day of Year.](https://github.com/jeffreytjs/100DayOfCode/blob/master/datetime/convert.py)<br />datetime/[Get the current time.](https://github.com/jeffreytjs/100DayOfCode/blob/master/datetime/current_time.py):heavy_check_mark: |
+| 28 | datetime/[Display various Datetime formats.](https://github.com/jeffreytjs/100DayOfCode/blob/master/datetime/date_time_format.py):heavy_check_mark:<br />datetime/[Get current time in milliseconds.](https://github.com/jeffreytjs/100DayOfCode/blob/master/datetime/millisecond.py):heavy_check_mark:<br />datetime/[Subtract five days from current date.](https://github.com/jeffreytjs/100DayOfCode/blob/master/datetime/subtract_days.py):heavy_check_mark:|
+| 29 | dictionary/[Check if a given key already exists in a dictionary.](https://github.com/jeffreytjs/100DayOfCode/blob/master/dictionary/check_key_exist.py):heavy_check_mark:|
+| 30 | dictionary/[Concatenate multiple dictionaries.](https://github.com/jeffreytjs/100DayOfCode/blob/master/dictionary/concatenate.py):heavy_check_mark:|
+| 31 | dictionary/[Iterate over dictionaries using for loops.](https://github.com/jeffreytjs/100DayOfCode/blob/master/dictionary/iterate_over_dictionary.py):heavy_check_mark:|
+| 32 | dictionary/[Sort a dictionary by value (ascending and descending).](https://github.com/jeffreytjs/100DayOfCode/blob/master/dictionary/sort.py):heavy_check_mark:|
+| 33 | dictionary/[Print a dictionary where the values are square of keys in range [1:16].](https://github.com/jeffreytjs/100DayOfCode/blob/master/dictionary/square.py):heavy_check_mark:|
+| 34 | dictionary/[Sum the values of all items in a dictionary.](https://github.com/jeffreytjs/100DayOfCode/blob/master/dictionary/sum_all_items.py):heavy_check_mark:|
+| 35 | file/[Get the file size of a plain file.](https://github.com/jeffreytjs/100DayOfCode/blob/master/file/file_size.py):heavy_check_mark:|
+| 36 | file/[Read first n lines of a file.](https://github.com/jeffreytjs/100DayOfCode/blob/master/file/first_n_lines.py):heavy_check_mark:|
+| 37 | file/[Find the longest words in a file.](https://github.com/jeffreytjs/100DayOfCode/blob/master/file/longest_word.py)|
+| 38 | file/[Read a random line from a file.](https://github.com/jeffreytjs/100DayOfCode/blob/master/file/random_line.py)|
+| 39 | []()|
+| 40 | []()|
+| 41 | []()|
+| 42 | []()|
+| 43 | []()|
+| 44 | []()|
+| 45 | []()|
+| 46 | []()|
+| 47 | []()|
+| 48 | []()|
+| 49 | []()|
+| 50 | []()|
+| 51 | []()|
+| 52 | []()|
+| 53 | []()|
+| 54 | []()|
+| 55 | []()|
+| 56 | []()|
+| 57 | []()|
+| 58 | []()|
+| 59 | []()|
+| 60 | []()|
+| 61 | []()|
+| 62 | []()|
+| 63 | []()|
+| 64 | []()|
+| 65 | []()|
+| 66 | []()|
+| 67 | []()|
+| 68 | []()|
+| 69 | []()|
+| 70 | []()|
+| 71 | []()|
+| 72 | []()|
+| 73 | []()|
+| 74 | []()|
+| 75 | []()|
+| 76 | []()|
+| 77 | []()|
+| 78 | []()|
+| 79 | []()|
+| 80 | []()|
+| 81 | []()|
+| 82 | []()|
+| 83 | []()|
+| 84 | []()|
+| 85 | []()|
+| 86 | []()|
+| 87 | []()|
+| 88 | []()|
+| 89 | []()|
+| 90 | []()|
+| 91 | []()|
+| 92 | []()|
+| 93 | []()|
+| 94 | []()|
+| 95 | []()|
+| 96 | []()|
+| 97 | []()|
+| 98 | []()|
+| 99 | []()|
+| 100 | []()|
