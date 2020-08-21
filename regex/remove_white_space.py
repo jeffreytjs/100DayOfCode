@@ -1,13 +1,19 @@
-#!/usr/bin/env python
-# coding: utf-8
+# Day 64 - Problem 71
 
-# In[ ]:
-
-
+# Challenge
 # Remove all whitespaces from a string
-# 
-# Input
-# ' Python    Exercises '
-# Output
-# PythonExercises
 
+# Example
+# Input: text= ' Python    Exercises '
+# Output: PythonExercises
+
+
+import re
+
+
+def remove_spaces(text):
+    return re.sub(' ', '', text)
+
+
+text = ' Python    Exercises '
+print(remove_spaces(text))
