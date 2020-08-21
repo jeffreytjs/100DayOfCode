@@ -63,24 +63,24 @@ It covers a wide range of topics which I will be using an overview to track my p
 | 34 | dictionary/[Sum the values of all items in a dictionary.](https://github.com/jeffreytjs/100DayOfCode/blob/master/dictionary/sum_all_items.py):heavy_check_mark:|
 | 35 | file/[Get the file size of a plain file.](https://github.com/jeffreytjs/100DayOfCode/blob/master/file/file_size.py):heavy_check_mark:|
 | 36 | file/[Read first n lines of a file.](https://github.com/jeffreytjs/100DayOfCode/blob/master/file/first_n_lines.py):heavy_check_mark:|
-| 37 | file/[Find the longest words in a file.](https://github.com/jeffreytjs/100DayOfCode/blob/master/file/longest_word.py)|
-| 38 | file/[Read a random line from a file.](https://github.com/jeffreytjs/100DayOfCode/blob/master/file/random_line.py)|
-| 39 | []()|
-| 40 | []()|
-| 41 | []()|
-| 42 | []()|
-| 43 | []()|
-| 44 | []()|
-| 45 | []()|
-| 46 | []()|
-| 47 | []()|
-| 48 | []()|
-| 49 | []()|
-| 50 | []()|
-| 51 | []()|
-| 52 | []()|
-| 53 | []()|
-| 54 | []()|
+| 37 | file/[Find the longest words in a file.](https://github.com/jeffreytjs/100DayOfCode/blob/master/file/longest_word.py):heavy_check_mark:|
+| 38 | file/[Read a random line from a file.](https://github.com/jeffreytjs/100DayOfCode/blob/master/file/random_line.py):heavy_check_mark:|
+| 39 | list/[Convert a list of characters into a string.](https://github.com/jeffreytjs/100DayOfCode/blob/master/list/characters_to_string.py):heavy_check_mark:|
+| 40 | list/[Check whether a list contains a sublist.](https://github.com/jeffreytjs/100DayOfCode/blob/master/list/check_a_list_contains_sublist):heavy_check_mark:|
+| 41 | list/[Find common items from two lists.](https://github.com/jeffreytjs/100DayOfCode/blob/master/list/common_items.py):heavy_check_mark:|
+| 42 | list/[Get the difference between the two lists.](https://github.com/jeffreytjs/100DayOfCode/blob/master/list/diff_between_2.py):heavy_check_mark:|
+| 43 | list/[Get the largest number from a list.](https://github.com/jeffreytjs/100DayOfCode/blob/master/list/find_max.py):heavy_check_mark:|
+| 44 | list/[Get the frequency of the elements in a list.](https://github.com/jeffreytjs/100DayOfCode/blob/master/list/frequency_of_elements.py):heavy_check_mark:|
+| 45 | list/[Generate all permutations of a list in Python.](https://github.com/jeffreytjs/100DayOfCode/blob/master/list/permutations.py):heavy_check_mark:|
+| 46 | list/[Remove duplicates from a list.](https://github.com/jeffreytjs/100DayOfCode/blob/master/list/remove_duplicate.py):heavy_check_mark:|
+| 47 | list/[Find the second smallest number in a list.](https://github.com/jeffreytjs/100DayOfCode/blob/master/list/second_smallest.py):heavy_check_mark:|
+| 48 | list/[Sum all the items in a list.](https://github.com/jeffreytjs/100DayOfCode/blob/master/list/sum_list.py):heavy_check_mark:|
+| 49 | math/[Convert a binary number to decimal number.](https://github.com/jeffreytjs/100DayOfCode/blob/master/math/binary_to_decimal.py):heavy_check_mark:|
+| 50 | math/[Flip a coin 1000 times and count heads and tails.](https://github.com/jeffreytjs/100DayOfCode/blob/master/math/flip_a_coin.py):heavy_check_mark:|
+| 51 | math/[Generate a series of unique random numbers.](https://github.com/jeffreytjs/100DayOfCode/blob/master/math/random_num.py):heavy_check_mark:|
+| 52 | math/[Round up a number to specified digits.](https://github.com/jeffreytjs/100DayOfCode/blob/master/math/round_up.py):heavy_check_mark:|
+| 53 | math/[Calculate standard deviation of given data.](https://github.com/jeffreytjs/100DayOfCode/blob/master/math/standard_deviation.py):heavy_check_mark:|
+| 54 | recursion/[Calculate the value of 'a' to the power 'b'.](https://github.com/jeffreytjs/100DayOfCode/blob/master/recursion/a_power_by_b.py):heavy_check_mark:|
 | 55 | []()|
 | 56 | []()|
 | 57 | []()|
